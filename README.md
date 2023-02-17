@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="figures/door-key-curriculum.gif" width=200 alt="Figure Door Key Curriculum">
+    <img src="figures/door-key-curriculum.gif" width=200 alt="Figure Door Key Curriculum">
 </p>
 
 The Minigrid library contains a collection of discrete grid-world environments to conduct research on Reinforcement Learning. The environments follow the [Gymnasium]() standard API and they are designed to be lightweight, fast, and easily customizable. 
