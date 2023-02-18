@@ -6,7 +6,7 @@
   <img src="https://github.com/Farama-Foundation/Minigrid/blob/master/figures/door-key-curriculum.gif" width=200 alt="Figure Door Key Curriculum">
 </p>
 
-The Minigrid library contains a collection of discrete grid-world environments to conduct research on Reinforcement Learning. The environments follow the [Gymnasium]() standard API and they are designed to be lightweight, fast, and easily customizable. 
+The Minigrid library contains a collection of discrete grid-world environments to conduct research on Reinforcement Learning. The environments follow the [Gymnasium](https://www.gymlibrary.dev/) standard API and they are designed to be lightweight, fast, and easily customizable. 
 
 # Installation
 
